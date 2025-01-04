@@ -1,0 +1,7 @@
+git add .
+git commit -m "add file"
+git branch newbranch
+git checkout newbranch
+git checkout master
+git remote add origin https://github.com/Frend1602/test.git
+git push -u origin main
